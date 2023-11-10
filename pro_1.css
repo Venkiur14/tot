@@ -1,0 +1,16 @@
+.mar{
+    /* margin: 25px; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.car-mar{
+    margin-right: px;
+}
+
+.hov:hover{
+    size: 25%;
+    transform:scale(30 deg) ;
+    transform: rotate3d(30deg ,30deg,15deg);
+}
